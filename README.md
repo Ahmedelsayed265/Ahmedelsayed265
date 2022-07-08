@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelsayed265&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsayed265" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelsayed265" alt="ahmedelsayed265" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ahmedel02002189" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedel02002189?logo=twitter&style=for-the-badge" alt="ahmedel02002189" /></a> </p>
 
 - 🌱 I’m currently learning **React.js - TypeScript - Backend Development (PHP Laravel mysql)**
