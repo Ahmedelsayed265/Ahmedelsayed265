@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsayed</h1>
 <h3 align="center">A Passionate React Frontend Developer with 2+ Years of Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelsayed265&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsayed265" /> </p>
-
 ---
 
 ### About Me
@@ -26,7 +24,7 @@ I am deeply interested in creating seamless user experiences and leveraging the 
   <a href="https://linkedin.com/in/ahmed-elsayed-0ba86020b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-elsayed-0ba86020b" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ahmed._.elsayed_21" target="blank">
+  <a href="https://instagram.com/ahmedelsayed_122" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed._.elsayed_21" height="30" width="40" />
   </a>
 </p>
@@ -76,8 +74,11 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 
 ---
 
-### GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelsayed265&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmedelsayed265" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayed265&theme=dark" alt="ahmedelsayed265" /></p>
+<details open>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedelsayed265&show_icons=true&theme=radical&count_private=true" alt="ahmedelsayed265" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayed265&layout=compact&theme=radical" alt="ahmedelsayed265" height="165">
+</p>
+  
+</details>
