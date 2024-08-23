@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsayed</h1>
+
 <h3 align="center">A Passionate React Frontend Developer with 2+ Years of Experience</h3>
 
 ---
@@ -77,7 +78,7 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 <br>
 
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
-
+---
 
 <details open>
 <summary><b>🔥 Streak Stats</b></summary>
