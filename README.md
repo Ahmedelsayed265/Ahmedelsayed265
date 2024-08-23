@@ -30,9 +30,9 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 </p>
 
 ---
-
+<br>
 <h2 align="center">🛠️ Languages and Tools</h2>
-
+<br>
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
@@ -70,9 +70,9 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 </details>
 
 ---
-
+<br>
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
-<br
+<br>
 
 <details open>
 <summary><b>🔥 Streak Stats</b></summary>
