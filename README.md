@@ -1,6 +1,3 @@
-Here's an enhanced version of your GitHub README file with a more professional touch:
-
----
 
 <h1 align="center">Hi 👋, I'm Ahmed Elsayed Mohamed</h1>
 <h3 align="center">A Passionate React.js Frontend Developer with 2+ Years of Experience</h3>
