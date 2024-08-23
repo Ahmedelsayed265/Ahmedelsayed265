@@ -1,20 +1,13 @@
-
-<h1 align="center">Hi 👋, I'm Ahmed Elsayed Mohamed</h1>
-<h3 align="center">A Passionate React.js Frontend Developer with 2+ Years of Experience</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Elsayed</h1>
+<h3 align="center">A Passionate React Frontend Developer with 2+ Years of Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelsayed265&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsayed265" /> </p>
-
-<p align="left">
-  <a href="https://twitter.com/ahmedel02002189" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ahmedel02002189?logo=twitter&style=for-the-badge" alt="ahmedel02002189" />
-  </a>
-</p>
 
 ---
 
 ### About Me
 
-I'm Ahmed Elsayed Mohamed, a dedicated and passionate front-end developer specializing in React.js. With over two years of professional experience, I've honed my skills in building dynamic, responsive, and user-friendly web applications. My expertise spans across various modern web technologies, and I am always eager to learn and adapt to new challenges.
+I'm Ahmed Elsayed, a dedicated and passionate front-end developer specializing in React.js. With over two years of professional experience, I've honed my skills in building dynamic, responsive, and user-friendly web applications. My expertise spans various modern web technologies, and I am always eager to learn and adapt to new challenges.
 
 I am deeply interested in creating seamless user experiences and leveraging the latest web technologies to bring ideas to life. Whether working independently or as part of a collaborative team, I strive to write clean, efficient, and maintainable code.
 
