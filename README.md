@@ -29,6 +29,8 @@ I am deeply interested in creating seamless user experiences and leveraging the 
   </a>
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+
 ---
 
 <h2 align="center">🛠️ Languages and Tools</h2>
