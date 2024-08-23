@@ -72,7 +72,7 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 ---
 
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
-<br><br><br>
+<br
 
 <details open>
 <summary><b>🔥 Streak Stats</b></summary>
