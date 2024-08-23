@@ -98,6 +98,3 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayed265&layout=compact&theme=radical" alt="ahmedelsayed265" height="165">
 </p>
 </details>
-
-![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedelsayed265&theme=radical)
-
