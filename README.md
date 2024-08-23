@@ -75,10 +75,19 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 ---
 
 <details open>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedelsayed265&theme=radical&no-frame=true&no-bg=true" alt="ahmedelsayed265" />
+</p>
+</details>
+
+<details open>
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedelsayed265&show_icons=true&theme=radical&count_private=true" alt="ahmedelsayed265" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayed265&layout=compact&theme=radical" alt="ahmedelsayed265" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedelsayed265&show_icons=true&theme=radical&count_private=true" alt="ahmedelsayed265" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayed265&layout=compact&theme=radical" alt="ahmedelsayed265" height="165">
 </p>
   
 </details>
