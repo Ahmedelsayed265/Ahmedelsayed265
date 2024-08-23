@@ -74,6 +74,19 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 
 ---
 
+<br>
+
+<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+
+
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ahmedelsayed265&theme=radical&hide_border=true" alt="ahmedelsayed265" width="420"/>
+</p>
+</details>
+
 <details open>
 <summary><b>🏆 Github Trophies</b></summary>
 <br>
