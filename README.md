@@ -81,8 +81,9 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 <details open>
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
+
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ahmedelsayed265&theme=radical&hide_border=true" alt="ahmedelsayed265" width="420"/>
+  <img src="https://streak-stats.demolab.com/?user=ahmedelsayed265&theme=radical&hide_border=true" alt="ahmedelsayed265" width="420"/>
 </p>
 </details>
 
