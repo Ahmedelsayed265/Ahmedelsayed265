@@ -27,6 +27,9 @@ I am deeply interested in creating seamless user experiences and leveraging the 
   <a href="https://instagram.com/ahmedelsayed_122" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed._.elsayed_21" height="30" width="40" />
   </a>
+  <a href="https://wa.me/+201027964469" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ahmed._.elsayed_21" height="30" width="40" />
+  </a>
 </p>
 
 ---
