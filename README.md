@@ -86,9 +86,11 @@ I am deeply interested in creating seamless user experiences and leveraging the 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmedelsayed265&theme=radical&hide_border=true" alt="ahmedelsayed265" width="420"/>
+  <img src="https://streak-stats.demolab.com/?user=ahmedelsayed265&theme=radical&hide_border=true" alt="ahmedelsayed265" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayed265&layout=compact&theme=radical" alt="ahmedelsayed265" height="165">
 </p>
 </details>
+
 
 <details open>
 <summary><b>🏆 Github Trophies</b></summary>
